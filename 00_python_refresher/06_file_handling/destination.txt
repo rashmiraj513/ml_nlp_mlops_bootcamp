@@ -1,0 +1,6 @@
+Hello, World!
+This is a new line written by file handling program.
+Append operation taking place!
+First line 
+Second line 
+Third line
