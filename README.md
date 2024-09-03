@@ -23,4 +23,5 @@ This repository is a work in progress and a reflection of my learning journey. I
 
 ## Credits
 
-This repository follows the Udemy Course [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface) by [Krish Naik](https://www.udemy.com/user/krish-naik/).
+This repository follows the Udemy Course [Complete Machine Learning,NLP Bootcamp MLOPS & Deployment
+](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment) by [Krish Naik](https://www.udemy.com/user/krish-naik/).
